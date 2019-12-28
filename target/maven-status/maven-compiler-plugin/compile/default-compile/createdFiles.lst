@@ -1,0 +1,6 @@
+com/rfvallina/sample/controller/TestController.class
+com/rfvallina/sample/controller/TestController$1.class
+com/rfvallina/sample/security/WebSecurityConfiguration.class
+com/rfvallina/sample/security/ResourceServerConfiguration.class
+com/rfvallina/sample/security/AuthorizationServerConfiguration.class
+com/rfvallina/sample/App.class
